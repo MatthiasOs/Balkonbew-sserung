@@ -1,3 +1,3 @@
 # Balkonbewässerung
 
-![Balkonbewässerung Diagramm](images/someimage.png)
+![Balkonbewässerung Diagramm](Balkon_Bewaesserung.drawio.png)
