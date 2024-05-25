@@ -1,1 +1,3 @@
-# Balkonbew-sserung
+# Balkonbewässerung
+
+![Balkonbewässerung Diagramm](images/someimage.png)
